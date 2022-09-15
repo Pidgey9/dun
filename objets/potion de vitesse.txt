@@ -1,0 +1,4 @@
+Potion de vitesse
+[ Potion of Speed ]
+Potion, très rare
+Lorsque vous buvez cette potion, vous bénéficiez de l'effet du sort hâte pendant 1 minute (pas de concentration requise). Le liquide jaune de cette potion est strié de noir et tourbillonne sur lui-même.
