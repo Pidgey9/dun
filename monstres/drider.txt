@@ -1,0 +1,38 @@
+
+Drider
+[ Drider ]
+Monstruosité de taille G, chaotique mauvais
+Classe d'armure 19 (armure naturelle)
+Points de vie 123 (13d10 + 52)
+Vitesse 9 m, escalade 9 m
+FOR
+16 (+3)DEX
+16 (+3)CON
+18 (+4)INT
+13 (+1)SAG
+14 (+2)CHA
+12 (+1)
+Compétences Discrétion +9, Perception +5
+Sens vision dans le noir 36 m, Perception passive 15
+Langues elfique, commun des profondeurs
+Puissance 6 (2300 PX)
+Ascendance féerique. Le drider a un avantage aux jets de sauvegarde contre les effets de charme, et la magie ne peut pas l'endormir.
+
+Incantation innée. La caractéristique d'incantation innée du drider est la Sagesse (jet de sauvegarde contre ses sorts DD 13). Le drider peut lancer les sorts suivants de manière innée, sans avoir besoin de composantes matérielles :
+
+À volonté : lumières dansantes
+1/jour chacun : ténèbres, lueurs féeriques
+Pattes d'araignée. Le drider peut escalader des surfaces difficiles et être au plafond la tête en bas sans avoir besoin d'effectuer un jet de caractéristique.
+
+Sensibilité au soleil. S'il est exposé à la lumière du soleil, le drider a un désavantage aux jets d'attaque et aux jets de Sagesse (Perception) basés sur la vue.
+
+Déplacement sur la toile. Le drider ignore les restrictions de mouvement causées par une toile d'araignée.
+
+ACTIONS
+Attaques multiples. Le drider effectue trois attaques, soit avec son épée longue, soit avec son arc long. Il peut remplacer l'une de ses attaques par une attaque de morsure.
+
+Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une créature. Touché : 2 (1d4) dégâts perforants + 9 (2d8) dégâts de poison.
+
+Épée longue. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts tranchants, ou 8 (1d10 + 3) dégâts tranchants si utilisée à deux mains.
+
+Arc long. Attaque à distance avec une arme : +6 au toucher, portée 45/180 m, une cible. Touché : 7 (1d8 + 3) dégâts perforants + 4 (1d8) dégâts de poison.
